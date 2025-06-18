@@ -1,6 +1,7 @@
 # DATA61322-Text-Mining-CW
 
 Overview： [⁠⁠⁠Lark Docs](https://kjpmqncy06v6.jp.larksuite.com/wiki/FKsBww0Bsi99zYkBIsLj6Ly9puh?fromScene=spaceOverview)
+https://huggingface.co/spaces/Henry010/lstm-relation-extraction 
 
 # Textual relationship extraction based on LSTM model and attention mechanism
 
