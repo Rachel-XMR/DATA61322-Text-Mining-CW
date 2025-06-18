@@ -1,11 +1,6 @@
 # DATA61322-Text-Mining-CW
 
-
-Overview： [⁠‌‬‬‍‍﻿‍⁠‬‬⁠⁠⁠‌‌‌‬⁠⁠Lark Docs](https://kjpmqncy06v6.jp.larksuite.com/wiki/FKsBww0Bsi99zYkBIsLj6Ly9puh?fromScene=spaceOverview)
-
-
-
-
+Overview： [⁠⁠⁠Lark Docs](https://kjpmqncy06v6.jp.larksuite.com/wiki/FKsBww0Bsi99zYkBIsLj6Ly9puh?fromScene=spaceOverview)
 
 # Textual relationship extraction based on LSTM model and attention mechanism
 
@@ -33,6 +28,7 @@ It is recommended to enter Hugging face space https://huggingface.co/spaces/Henr
 
 ## Project structure
 
+```
 Textming_Coursework/
 
 ├── notebooks/
@@ -76,6 +72,8 @@ Textming_Coursework/
     ├── test.json                          # test dataset
 
     └── relation_with_id.txt               # Relational ID mapping file
+```
+
 
 ## Configuration
 
